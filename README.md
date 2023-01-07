@@ -1,7 +1,8 @@
 # consoleLogStyle
-
+## 预览
 ![](https://raw.githubusercontent.com/3232467230/consoleLogStyle/master/view.png)
 
+## 使用实例
 ```js
 
 import log from "./LogStyle.js"//导入
