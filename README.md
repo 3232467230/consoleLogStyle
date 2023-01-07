@@ -1,5 +1,10 @@
 # consoleLogStyle
 ```js
+
+import log from "./LogStyle.js"//导入
+
+log.log("info")//默认打印
+
 //样式1
 log.a("success") //默认
 log.a("info", "success") //自定义标题
