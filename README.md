@@ -19,3 +19,4 @@ log.c("打印数据"); //默认
 log.c("success", "打印数据"); //自定义标题
 log.c("fail", "打印数据", 'red'); //自定义标题,颜色
 ```
+![](https://raw.githubusercontent.com/3232467230/consoleLogStyle/master/view.png)
