@@ -4,7 +4,7 @@ export default {
 		dt = a;
 	}),
 	//default log
-	log: (...a) => cl(a),
+	log: (a) => cl(a),
 	// style 1
 	a: (...a) => {
 		cl(s + (lh(a) > 1 ? (a[0] ? a[0] : dt) : dt) + s + (lh(a) > 2 ? (a[1]) : (a[lh(a) - 1])),
